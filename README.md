@@ -1,1 +1,2 @@
-# dsa-basics
+# DSA
+Data Structures and Algorithms
